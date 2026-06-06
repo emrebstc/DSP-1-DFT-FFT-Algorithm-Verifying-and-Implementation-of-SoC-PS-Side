@@ -1,4 +1,4 @@
-# DSP-Algorithm-Implementation-Verifying-on-SoC-FPGA
+# DSP-1-DFT-FFT-Algorithm-and-Implementation-to-SoC-PS-Side
 This repository was created to apply DSP (Digital Signal Processing) concepts to a system of PS side (Zynq ultrascale+ MpSoC - Kria KV260).
 
 <img width="1600" height="1098" alt="WhatsApp Image 2026-06-06 at 11 57 24" src="https://github.com/user-attachments/assets/1279f2a8-bb2a-40a5-8383-287912e81715" />
